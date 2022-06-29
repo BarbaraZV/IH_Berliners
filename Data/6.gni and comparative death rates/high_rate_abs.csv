@@ -1,0 +1,76 @@
+,0
+covid_fatality_rate,6.867864175943816
+age dependency ratio (% of working-age population),0.11111362433995443
+"age dependency ratio, old",0.6332617557200613
+"age population, age 0, female, interpolated",0.12261223388028196
+diabetes prevalence (% of population ages 20 to 79),0.010183669758137748
+female population 45-49,0.5065846350795323
+female population 80+,0.6829625084169435
+"gni per capita, atlas method (current us$)",0.04108423661633563
+"immunization, dpt (% of children ages 12-23 months)",0.06640777159227446
+"immunization, hib3 (% of children ages 12-23 months)",0.06617154647151718
+"immunization, measles (% of children ages 12-23 months)",0.0678732807377002
+improved sanitation facilities (% of population with access),0.20403892838090812
+improved water source (% of population with access),0.05684499500431526
+"improved water source, urban (% of urban population with access)",0.029924646552221823
+lifetime risk of maternal death (%),0.8565689468484659
+lifetime risk of maternal death (1 in: rate varies by country),0.340941579366808
+maternal leave benefits (% of wages paid in covered period),0.032825375324528686
+"mortality rate, infant (per 1,000 live births)",0.6932082155609973
+number of infant deaths,0.376689891370982
+number of maternal deaths,0.4809589287067674
+number of weeks of maternity leave,0.13838451767102253
+people practicing open defecation (% of population),0.8427474958695692
+"people practicing open defecation, urban (% of urban population)",0.8860973675051166
+"population ages 00-04, female (% of female population)",0.367327765150511
+"population ages 15-19, female (% of female population)",0.2736010233474544
+"population ages 20-24, female (% of female population)",0.19985603746406264
+"population ages 25-29, female (% of female population)",0.14384248953449236
+"population ages 30-34, female (% of female population)",0.07806677008252866
+"population ages 30-34, male (% of male population)",0.06584433625064609
+"population ages 35-39, female (% of female population)",0.0051798247401562865
+"population ages 40-44, female (% of female population)",0.09996701554180655
+"population ages 60-64, female (% of female population)",0.5329005308500239
+population growth (annual %),0.5349005316895075
+"population, female (% of total)",0.04122411811483411
+rural population (% of total population),0.010250538734082274
+rural population growth (annual %),2.8266507519027
+urban population growth (annual %),0.5884922381506295
+fat_animal products,0.30789237476406384
+fat_animal fats,0.7843878906057493
+fat_cereals - excluding beer,0.4421393713808697
+fat_eggs,0.17048259452431994
+"fat_fish, seafood",0.2809001486297256
+fat_fruits - excluding wine,0.0634554453155715
+fat_meat,0.16856648755658973
+fat_miscellaneous,0.1858820051522446
+fat_milk - excluding butter,0.38708851929279114
+fat_offals,0.3802724563644105
+fat_oilcrops,0.6312888965694018
+fat_pulses,0.5744010007786671
+fat_spices,0.3412872478601558
+fat_starchy roots,0.15083795674098574
+fat_stimulants,0.48384628735854923
+fat_treenuts,0.3933632454265178
+fat_vegetable oils,0.11966374360123318
+fat_vegetables,0.055806992337164796
+obesity,0.3264517914641204
+undernourished,0.6568217111857158
+kcal_alcoholic beverages,1.086336921473707
+kcal_animal products,0.38822819988945484
+kcal_cereals - excluding beer,0.27527117764919456
+"kcal_fish, seafood",0.19653559722993152
+kcal_fruits - excluding wine,0.06537172901479427
+kcal_meat,0.32031071089294155
+kcal_offals,0.17892200482257326
+kcal_spices,0.18525201312257686
+kcal_sugar & sweeteners,0.14744922082222042
+kcal_vegetable oils,0.12114437021836409
+kcal_vegetables,0.2076967067272619
+protein_alcoholic beverages,0.7755903366132566
+protein_animal fats,1.0908256629410478
+protein_milk - excluding butter,0.6041075120901132
+protein_oilcrops,0.579873549043788
+protein_stimulants,0.33654364697249195
+protein_sugar & sweeteners,0.6458788319987058
+protein_vegetable oils,0.7468326780253386
