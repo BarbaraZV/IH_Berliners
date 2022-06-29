@@ -60,6 +60,13 @@ files:
   - Boxplots
   - Map bubbles
 
+**Explore differences in populations
+  - Group by GNI and High/Low covid fatality rate
+  - Create scatterplots of "covid_fatality_rate" vs features
+  - Run groupby mean statistics to find largest differences
+  - Build hypothesis for which factors are relevant for model
+  - Research initial ways to do recursive feature elimination
+  - Do initial test of model using linear regression
 
 
 NOTES :
