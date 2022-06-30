@@ -7,18 +7,14 @@ diabetes prevalence (% of population ages 20 to 79),0.010183669758137748
 female population 45-49,0.5065846350795323
 female population 80+,0.6829625084169435
 "gni per capita, atlas method (current us$)",0.04108423661633563
-"immunization, dpt (% of children ages 12-23 months)",0.06640777159227446
-"immunization, hib3 (% of children ages 12-23 months)",0.06617154647151718
-"immunization, measles (% of children ages 12-23 months)",0.0678732807377002
+average_immunizatio,0.06681314864049974
 improved sanitation facilities (% of population with access),0.20403892838090812
 improved water source (% of population with access),0.05684499500431526
 "improved water source, urban (% of urban population with access)",0.029924646552221823
 lifetime risk of maternal death (%),0.8565689468484659
 lifetime risk of maternal death (1 in: rate varies by country),0.340941579366808
-maternal leave benefits (% of wages paid in covered period),0.032825375324528686
 "mortality rate, infant (per 1,000 live births)",0.6932082155609973
 number of infant deaths,0.376689891370982
-number of maternal deaths,0.4809589287067674
 number of weeks of maternity leave,0.13838451767102253
 people practicing open defecation (% of population),0.8427474958695692
 "people practicing open defecation, urban (% of urban population)",0.8860973675051166
@@ -36,6 +32,8 @@ population growth (annual %),0.5349005316895075
 rural population (% of total population),0.010250538734082274
 rural population growth (annual %),2.8266507519027
 urban population growth (annual %),0.5884922381506295
+good fats,0.1553098460868054
+bad fats,0.24353384658134486
 fat_animal products,0.30789237476406384
 fat_animal fats,0.7843878906057493
 fat_cereals - excluding beer,0.4421393713808697
@@ -56,6 +54,7 @@ fat_vegetable oils,0.11966374360123318
 fat_vegetables,0.055806992337164796
 obesity,0.3264517914641204
 undernourished,0.6568217111857158
+perc_kcal_bad,0.007389295050217021
 kcal_alcoholic beverages,1.086336921473707
 kcal_animal products,0.38822819988945484
 kcal_cereals - excluding beer,0.27527117764919456
@@ -74,3 +73,4 @@ protein_oilcrops,0.579873549043788
 protein_stimulants,0.33654364697249195
 protein_sugar & sweeteners,0.6458788319987058
 protein_vegetable oils,0.7468326780253386
+veggie_balance,0.1093977315127822
