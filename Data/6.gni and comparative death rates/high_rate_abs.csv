@@ -8,7 +8,7 @@ female population 45-49,0.5065846350795323
 female population 80+,0.6829625084169435
 "gni per capita, atlas method (current us$)",0.04108423661633563
 average_immunizatio,0.06681314864049974
-improved sanitation facilities (% of population with access),0.20403892838090812
+improved sanitation facilities,0.20403892838090812
 improved water source (% of population with access),0.05684499500431526
 "improved water source, urban (% of urban population with access)",0.029924646552221823
 lifetime risk of maternal death (%),0.8565689468484659
@@ -22,7 +22,7 @@ people practicing open defecation (% of population),0.8427474958695692
 "population ages 15-19, female (% of female population)",0.2736010233474544
 "population ages 20-24, female (% of female population)",0.19985603746406264
 "population ages 25-29, female (% of female population)",0.14384248953449236
-"population ages 30-34, female (% of female population)",0.07806677008252866
+"population ages 30-34, female",0.07806677008252866
 "population ages 30-34, male (% of male population)",0.06584433625064609
 "population ages 35-39, female (% of female population)",0.0051798247401562865
 "population ages 40-44, female (% of female population)",0.09996701554180655
